@@ -13,4 +13,4 @@ const deposit=()=>{
     const depositAmount=prompt("Enter A Deposit Amount :")
 
 };
-deposit(scdd);
+deposit();
